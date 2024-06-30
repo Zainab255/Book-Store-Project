@@ -1,0 +1,1 @@
+The Book Store project is a MERN stack (MongoDB, Express.js, React.js, Node.js) web app for managing books. It provides full CRUD functionality, API management with Postman, a responsive React frontend with Vite, and efficient MongoDB data handling, showcasing modern web development for book management.
